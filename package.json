@@ -1,0 +1,10 @@
+{
+    "name": "com.hilariousheiner.quadui",
+    "displayName": "QuadUI",
+    "version": "0.1.0",
+    "unity": "6000.5",
+    "description": "A Unity3D package containing procedural ui elements based on quads",
+    "author": {
+        "name": "Heiner Schmidt"
+    }
+}
