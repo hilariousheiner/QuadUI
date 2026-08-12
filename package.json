@@ -4,7 +4,16 @@
     "version": "0.1.0",
     "unity": "6000.5",
     "description": "A Unity3D package containing procedural ui elements based on quads",
-    "author": {
+    "author": 
+	{
         "name": "Heiner Schmidt"
-    }
+    },
+	"samples": 
+	[
+        {
+            "displayName": "QuadUI Example",
+            "description": "Examples demonstrating QuadUI.",
+            "path": "Samples~/QuadUIExample"
+        }
+    ]
 }
