@@ -3,7 +3,7 @@ using UnityEngine.UI;
 
 namespace QuadUI
 {
-    public class BoolGridMeshBuilder : AUIMeshBuilder
+    public class QuadGridMeshBuilder : AUIMeshBuilder
     {
         private Color backgroundColor = Color.clear;
         private Color foregroundColor = Color.clear;
@@ -12,7 +12,7 @@ namespace QuadUI
 
         private IQuadGrid grid;
 
-        public BoolGridMeshBuilder(IQuadGrid grid, Color backgroundColor, Color foregroundColor, float borderSize)
+        public QuadGridMeshBuilder(IQuadGrid grid, Color backgroundColor, Color foregroundColor, float borderSize)
         {
             this.grid = grid;
             this.backgroundColor = backgroundColor;
